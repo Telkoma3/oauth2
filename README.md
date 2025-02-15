@@ -1,3 +1,1 @@
-This is a simple hello, world demonstration web server.
-
-It serves version information on /version and answers any other request like /name by saying "Hello, name!".
+Saya sedang mengembangkan kode OAuth2 Provider menggunakan Golang dengan bantuan Qwen AI. Dalam proyek ini, saya memanfaatkan framework **Echo** serta library **go-oauth2** untuk mengimplementasikan autentikasi berbasis OAuth2. Sistem ini dirancang agar mendukung **JWT, PostgreSQL, Redis, PKCE, HTTPS, CORS, dan rate limiting**, sehingga lebih aman dan scalable. OAuth2 Provider ini nantinya akan digunakan sebagai penyedia autentikasi untuk beberapa aplikasi yang saling terhubung, memastikan akses yang aman dan terstruktur.
