@@ -1,0 +1,33 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build artifacts
+bin/
+*.o
+*.a
+*.obj
+*.lib
+
+# Test cache
+.testcache
+
+# Dependencies
+vendor/
+
+# Go specific
+.idea/
+.idx/
+.vscode/
+
+# Temporary
+tmp/
+*.tmp
+*.swp
+*~
+.DS_Store
+
+# Editor backups
+*.(bak|save)
